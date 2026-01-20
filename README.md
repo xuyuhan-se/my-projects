@@ -6,6 +6,7 @@
 - **University**: Xi'an University of Science and Technology
 - **GitHub**: https://github.com/xuyuhan-se
 - **Email**: yu.han.xu@outlook.com
+- 个人技术博客地址：https://xuyuhan-se.github.io
 
 📚 Repository Purpose
 
