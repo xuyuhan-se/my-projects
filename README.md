@@ -20,3 +20,8 @@ This repository serves as a central collection for:
 - **Languages**: Java, c语言
 - **Tools**: IntelliJ IDEA, GitHub
 - **Concepts**: Data Structures, Algorithms, Software 
+
+
+---
+Git配置成功
+**Git版本**:git version 2.52.0.windows.1
