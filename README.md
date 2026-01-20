@@ -1,10 +1,12 @@
 # my-projects
+
 👤 About Me
 - **Name**: 许俞涵
 - **Major**: Software Engineering
 - **University**: Xi'an University of Science and Technology
 - **GitHub**: https://github.com/xuyuhan-se
 - **Email**: yu.han.xu@outlook.com
+
 📚 Repository Purpose
 This repository serves as a central collection for:
 - Course assignments and projects
